@@ -1,0 +1,52 @@
+*******************************************************************************
+MIDPS - Medii de dezvoltare a produselor Software
+Laboratorul Nr.2 - Console Text Editors. Scripting
+Virtosu Sava
+email: sava.virtosu@gmail.com
+*******************************************************************************
+Skills:
+	- IDE's: [console], [nano], [vim], [emacs]
+	- Languages: bash, python, perl, ruby
+	- Frameworks: 
+	- Technologies: The power of vim.
+*******************************************************************************
+Objectives: 
+	- Basic knowledge for using console 
+	- Editing code remotely, directly on server side
+	- Script for compile multiple programs
+*******************************************************************************
+General Requirements:
+	Laboratory work is considered as successfully passed after fulfilling the 
+	following steps:
+		1. You must elaborate a Report, in witch you describe your work-flow 
+		and the way you are thinking:
+			- Laboratory work paper DL is: x.x.x
+			- Laboratory work paper must have at least: 2 pages
+			- Laboratory work paper must have a conclusion of: 0.5 pages
+		2. You must elaborate a prototype program, and show how it work during
+		the classes
+		3. You must pass the quiz 
+*******************************************************************************
+Technical Requirements:
+	- 
+
+*******************************************************************************
+Laboratory Requirements:
+
+	-Basic Level (grade 5 || 6): You need to connect to a server using ssh 
+	download and install gcc
+
+	-Normal Level (grade 7 || 8):
+
+	-Advance Level (grade 9 || 10):
+
+	-Bonus Level:
+*******************************************************************************
+References:
+http://nvie.com/posts/a-successful-git-branching-model/
+
+*******************************************************************************
+Example Solution to laboratory:
+
+
+*******************************************************************************
