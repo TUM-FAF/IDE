@@ -1,7 +1,7 @@
 
 IDE Labs
 =========
-MIDPS - Medii de dezvoltare a produselor Software
+MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
 
 Virtosu Sava
 
@@ -9,22 +9,59 @@ email: sava.virtosu@gmail.com
 
 Content
 ------------------------------------------------------
-1.Setting server environment. Revision Control Systems
-  - ssh,git,mercurial,svn.
+### Lab 1
+Setting server environment (via SSH)
 
-2.Console Text Editors. Scripting 
-  - [vi, vim, emacs, nano]  (bash,python,perl,C)
+Revision Control Systems (one of):
+  - git
+  - mercurial
+  - svn
 
-3.GUI Programing 
-  - [Visual Studio, QTCreator, Code::Blocks]
+### Lab 2
+Console Text Editors (one of):
+  - vi
+  - vim
+  - emacs
+  - nano
 
-4.Mobile application development
-  - [Eclipse, NetBeans, ItelijIdea, XCode], (Java, Android, iOS)
+Scripting:
+  - bash
+  - python
+  - perl
+  - C
 
-5.Web development 
-  - [Sublime Text 2, Rubymind, PyCharm, Komodo, Coda, Dreamweaver, phpStorm], 
-  (python, ruby(rails Project))
+### Lab 3
+GUI Programing (one of):
+  - Visual Studio
+  - QTCreator
+  - Code::Blocks
 
-6.Game Development OR Browser Extension
-  - [Unity 3D], (Javascript, Python, C#)
-  - [compilr, coderun, shiftedit, c9.io, ideone], (Javascript) 
+### Lab 4
+Mobile application development (one of):
+  - Eclipse (Java, Android)
+  - NetBeans (Java, Android)
+  - ItelijIdea (Java, Android)
+  - XCode (Objective-C, iOS)
+
+### Lab 5
+Web development IDEs/text editors (one of):
+  - Sublime Text 2
+  - Rubymind
+  - PyCharm
+  - Komodo
+  - Coda
+  - Dreamweaver
+  - phpStorm
+  
+Web development languages (one of):
+ - python (Django)
+ - ruby (Ruby on Rail)
+
+### Lab 6
+Game Development OR Browser Extension (one of):
+  - Unity 3D (Javascript, Python, C#)
+  - compilr (JavaScript)
+  - coderun (JavaScript)
+  - shiftedit (JavaScript)
+  - c9.io (JavaScript)
+  - ideone (JavaScript) 
