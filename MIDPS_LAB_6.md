@@ -1,5 +1,5 @@
 *******************************************************************************
-MIDPS - Medii de dezvoltare a produselor Software
+MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
 Laboratorul Nr.6 - Game Development OR Browser Extension
 Virtosu Sava
 email: sava.virtosu@gmail.com
