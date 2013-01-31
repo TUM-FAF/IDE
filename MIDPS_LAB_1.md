@@ -10,16 +10,16 @@ email: sava.virtosu@gmail.com
 *******************************************************************************
 
 ### Prerequisites:
-  - IDEs: console
+  - IDEs: Command Line Interface (CLI)
   - Languages: bash, C/C++
   - Frameworks: 
   - Technologies: Version Control Systems
 
 ### Objectives: 
-  - Understanding and using console (basic level) 
+  - Understanding and using CLI (basic level) 
   - Administration of a remote linux machine using SSH
   - Ability to work with Version Control Systems (git || mercurial || svn)
-  - Compile your C/C++/Java/Python programs in console using gcc/g++/javac/python compilers
+  - Compile your C/C++/Java/Python programs through CLI using gcc/g++/javac/python compilers
 
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
