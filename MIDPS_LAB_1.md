@@ -88,6 +88,7 @@ Git:
   - http://www.manniwood.com/starting_a_project_with_git.html
   - https://help.ubuntu.com/community/Git
   - http://www.vogella.com/articles/Git/article.html
+  - http://marklodato.github.com/visual-git-guide/index-en.html
 
-Advance Git:
+Advanced Git:
   - http://nvie.com/posts/a-successful-git-branching-model/
