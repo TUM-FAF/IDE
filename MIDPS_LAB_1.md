@@ -31,10 +31,10 @@ email: sava.virtosu@gmail.com
   2. You must elaborate a prototype program, and show how it work during the classes
   3. You must pass the quiz 
 
-  _Note: More details you'll provide in your report, less questions I'll give to
+  _Note:_
+  
+  _More details you'll provide in your report, less questions I'll give to
   you during presentation of your report._
-
-  _Note*:_
 
   _If you don't understand some words in this document please google it._
   
