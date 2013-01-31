@@ -42,8 +42,7 @@ email: sava.virtosu@gmail.com
   
   _If you still don't get something then ask me. Write an email to me or to other teacher. Ask stackoverflow. Do something (!) because you will encounter all these keywords during your professional carrier. This will help to differentiate you from an average "bîdlo-coder"._
 
-### Technical Requirements:
-
+### Technical Prerequisites:
   - connect to a server (you can use a virtual machine as a remote server)
   - install necessary compilers on server
   - install git on server
