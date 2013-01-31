@@ -12,7 +12,7 @@ Content
 ### Lab 1
 Setting server environment (via SSH)
 
-Revision Control Systems (one of):
+Version Control Systems (one of):
   - git
   - mercurial
   - svn
