@@ -18,16 +18,16 @@ Version Control Systems (one of):
   - svn
 
 ### Lab 2
-Console Text Editors (one of):
+Command Line Interfaces (CLI) (one of):
   - vi
   - vim
   - emacs
   - nano
 
-Scripting:
-  - bash
-  - python
-  - perl
+Scripting (using one of the following languages):
+  - Bash
+  - Python
+  - Perl
   - C
 
 ### Lab 3
