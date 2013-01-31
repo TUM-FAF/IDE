@@ -45,13 +45,27 @@ email: sava.virtosu@gmail.com
 ### Technical Prerequisites:
   - connect to a server (you can use a virtual machine as a remote server)
   - install necessary compilers on server
-  - install git on server
+  - install GIT on server
 
 ### Laboratory Requirements:
-
-  - Basic Level (grade 5 || 6): You need to connect to a server (as a server can serve a virtual machine) using ssh. You must be able to run at least 2 sample programs from the HelloWolrdPrograms folder. You must be able to initialize and make a commit in git or mercurial.
-  - Normal Level (grade 7 || 8): initialize an empty repository, configure your git or mercurial. Make 2 branches, and make in each branch a commit.
-  - Advance Level (grade 9 || 10): configure your remote push (github, bitbucket or custom server). Make a commit and after that reset it. Make 2 branches and merge them.
+  - for _Basic Level_ (grade 5 || 6) you should be able to:
+    - connect to a server using SSH
+    - run at least 2 sample programs from provided HelloWolrdPrograms set
+    - initialize and make a commit using GIT or mercurial
+  - for _Normal Level_ (grade 7 || 8) you should be able to:
+    - initialize an empty repository
+    - configure your GIT or mercurial
+    - create branches (create at least 2 branches)
+    - commit to different branches (at least 1 commit per branch)
+  - for _Advanced Level_ (grade 9 || 10) you should be able to:
+    - set a branch to track a remote origin on which you are able to push (ex. github, bitbucket or custom server)
+    - reset a branch to previous commit
+    - merge 2 branches
+  - for _Geek Level_ (no marks here) explore:
+    - GIT cherry-pick
+    - GIT rebase
+    - conflict solving
+    - GIT hooks
 
 ### References:
 
