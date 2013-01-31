@@ -1,10 +1,14 @@
 *******************************************************************************
 MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
-Laboratorul Nr.2 - Console Text Editors. Scripting
+====
+Laboratory work Nr.2 - Console Text Editors. Scripting
+----
+
 Virtosu Sava
+
 email: sava.virtosu@gmail.com
 *******************************************************************************
-Skills:
+### Skills:
 	- IDE's: [console], [nano], [vim], [emacs]
 	- Languages: bash, python, perl, ruby
 	- Technologies: The power of vim.

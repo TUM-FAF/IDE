@@ -1,7 +1,11 @@
 *******************************************************************************
 MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
-Laboratorul Nr.4 - Mobile application development
+====
+Laboratory work Nr.4 - Mobile application development
+----
+
 Virtosu Sava
+
 email: sava.virtosu@gmail.com
 *******************************************************************************
 Skills:

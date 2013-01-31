@@ -35,12 +35,15 @@ email: sava.virtosu@gmail.com
   you during presentation of your report._
 
   _Note*:_
+
+  _If you don't understand some words in this document please google it._
   
-  - _If you don't understand some words in this document please google it._
-  - _If you don't understand google explanation then try to ask for a help from colleagues or friends._
-  - _If you still don't get something then ask me. Write an email to me or to other teacher. Ask stackoverflow. Do something (!) because you will encounter all these keywords during your professional carrier. This will help to differentiate you from an average "bîdlo-coder"._
+  _If you don't understand google explanation then try to ask for a help from colleagues or friends._
+  
+  _If you still don't get something then ask me. Write an email to me or to other teacher. Ask stackoverflow. Do something (!) because you will encounter all these keywords during your professional carrier. This will help to differentiate you from an average "bîdlo-coder"._
 
 ### Technical Requirements:
+
   - connect to a server (you can use a virtual machine as a remote server)
   - install necessary compilers on server
   - install git on server

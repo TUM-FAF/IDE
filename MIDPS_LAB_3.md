@@ -1,7 +1,11 @@
 *******************************************************************************
 MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
-Laboratorul Nr.3 - GUI Programing
+====
+Laboratory work Nr.3 - GUI Programing
+----
+
 Virtosu Sava
+
 email: sava.virtosu@gmail.com
 *******************************************************************************
 Skills:

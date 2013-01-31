@@ -1,7 +1,11 @@
 *******************************************************************************
 MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
-Laboratorul Nr.5 - Web development
+====
+Laboratory work Nr.5 - Web development
+----
+
 Virtosu Sava
+
 email: sava.virtosu@gmail.com
 *******************************************************************************
 Skills:
@@ -31,19 +35,17 @@ General Requirements:
 		3. You must pass the quiz 
 *******************************************************************************
 Technical Requirements:
+
 	- Use MVC (Model–View–Controller) pattern
 *******************************************************************************
 Laboratory Requirements:
 
 	- Basic Level (grade 5 || 6): Simple site with 3 static pages
-
 	- Normal Level (grade 7 || 8): Your site must keep all site data in a 
 	database.
-
 	- Advance Level (grade 9 || 10): Your site must contain AJAX Requests. Your 
 	controller must implement XHR or JSON responses. Some Data are dynamically
 	loaded to the page.
-
 	- Bonus Level: Make a RoR application fully covered with Unit Tests.
 
 *******************************************************************************
