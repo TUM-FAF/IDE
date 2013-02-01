@@ -60,6 +60,9 @@ Basics of linux comandline comands:
  - http://www.debianhelp.co.uk/commands.htm
  - http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html
 
+PowerShell (windows console):
+  - http://powershell.com/cs/blogs/tips/
+
 SSH into your Virtualbox VM from the same computer
   - http://www.youtube.com/watch?v=5BsShkcweIs
 
@@ -78,3 +81,8 @@ Git:
 
 Advance Git:
   - http://nvie.com/posts/a-successful-git-branching-model/
+  - http://git-scm.com/book
+
+Mercurial:
+  - http://hginit.com/
+  - http://hgbook.red-bean.com/
