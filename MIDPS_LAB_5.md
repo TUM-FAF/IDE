@@ -26,9 +26,9 @@ General Requirements:
 		1. You must elaborate a Report, in which you describe your workflow 
 		and the way you are thinking:
 			- Laboratory work paper DL is: x.x.x
-			- Laboratory work paper must have at least: 8 pages, with maximum 4 
-			pages of code. Place your interesting parts of code and explain why you 
-			chose such a solution.
+			- Laboratory work paper must have at least:8 pages, with maximum 4 
+			pages of code. Place your interesting parts of code and explain 
+			why you chose such a solution.
 			- Laboratory work paper must have a conclusion of: 1 page
 		2. You must elaborate a prototype program, and show how it works during
 		the classes
@@ -43,10 +43,15 @@ Laboratory Requirements:
 	- Basic Level (grade 5 || 6): Simple site with 3 static pages
 	- Normal Level (grade 7 || 8): Your site must keep all site data in a 
 	database.
-	- Advance Level (grade 9 || 10): Your site must contain AJAX Requests. Your 
-	controller must implement XHR or JSON responses. Some Data are dynamically
-	loaded to the page.
-	- Bonus Level: Make a RoR application fully covered with Unit Tests.
+	- Advance Level (grade 9 || 10): Your site must contain AJAX Requests.
+	Your controller must implement XHR or JSON responses. Some Data are
+	dynamically	loaded to the page.
+
+	- Bonus Level: Make a RoR application "Mail Sender" fully covered with 
+	Unit Tests. Your web based application will permit you to connect existing 
+	account mail account (for example gmail) and permit you to explore your 
+	inbox, read existing emails, create new emails, and send them. Or you can
+	make your own mail server.
 
 *******************************************************************************
 References:
@@ -54,6 +59,9 @@ References:
 		- https://tutsplus.com/course/improve-workflow-in-sublime-text-2/
 	RoR:
 		- http://railsforzombies.org/
+		- http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+	Python:
+		- http://learnpythonthehardway.org/book/
 
 *******************************************************************************
 Example solution to laboratory:

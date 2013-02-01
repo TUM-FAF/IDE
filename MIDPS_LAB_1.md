@@ -57,8 +57,8 @@ email: sava.virtosu@gmail.com
 ### References:
 
 Basics of linux comandline comands:
- - http://www.debianhelp.co.uk/commands.htm
- - http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html
+  - http://www.debianhelp.co.uk/commands.htm
+  - http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html
 
 PowerShell (windows console):
   - http://powershell.com/cs/blogs/tips/

@@ -49,8 +49,29 @@ Laboratory Requirements:
 	-Bonus Level:
 *******************************************************************************
 References:
-http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-novice-tutorial-videos/
-http://packages.python.org/GitPython/0.3.1/tutorial.html
+Bash:
+	- http://mywiki.wooledge.org/BashGuide
+	- http://tldp.org/LDP/abs/html/
+
+Perl:
+	- http://www.globalspin.com/thebook/
+	- http://www.perl.org/books/beginning-perl/
+	- http://www.extremeperl.org/bk/home
+	- http://www.greenteapress.com/perl/
+	- http://hop.perl.plover.com/book/
+
+Python:
+	- http://packages.python.org/GitPython/0.3.1/tutorial.html
+
+vim:
+	- http://www.derekwyatt.org/vim/vim-tutorial-videos/
+	vim-novice-tutorial-videos/
+	- http://www.swaroopch.com/notes/Vim/
+	- http://vim.runpaint.org/toc/
+
+emacs:
+	- http://www.gnu.org/software/emacs/manual/emacs.html
+	- http://www.gnu.org/software/emacs/emacs-lisp-intro/
 
 *******************************************************************************
 Example Solution to laboratory:
