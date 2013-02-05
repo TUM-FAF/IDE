@@ -75,6 +75,8 @@ How to compile a Java program in ubuntu
   - http://askubuntu.com/questions/145748/how-to-compile-a-java-file
 
 Git:
+  - A tutorial explaining the git concepts by asociating managing source code with managing game saves.
+      http://www-cs-students.stanford.edu/~blynn/gitmagic/
   - http://www.manniwood.com/starting_a_project_with_git.html
   - https://help.ubuntu.com/community/Git
   - http://www.vogella.com/articles/Git/article.html
