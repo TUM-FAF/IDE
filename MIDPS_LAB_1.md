@@ -10,16 +10,16 @@ email: sava.virtosu@gmail.com
 *******************************************************************************
 
 ### Prerequisites:
-  - IDEs: console
+  - IDEs: Command Line Interface (CLI)
   - Languages: bash, C/C++
   - Frameworks: 
   - Technologies: Version Control Systems
 
 ### Objectives: 
-  - Understanding and using console (basic level) 
+  - Understanding and using CLI (basic level) 
   - Administration of a remote linux machine using SSH
   - Ability to work with Version Control Systems (git || mercurial || svn)
-  - Compile your C/C++/Java/Python programs in console using gcc/g++/javac/python compilers
+  - Compile your C/C++/Java/Python programs through CLI using gcc/g++/javac/python compilers
 
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
@@ -31,10 +31,10 @@ email: sava.virtosu@gmail.com
   2. You must elaborate a prototype program, and show how it work during the classes
   3. You must pass the quiz 
 
-  _Note: More details you'll provide in your report, less questions I'll give to
+  _Note:_
+  
+  _More details you'll provide in your report, less questions I'll give to
   you during presentation of your report._
-
-  _Note*:_
 
   _If you don't understand some words in this document please google it._
   
@@ -42,17 +42,30 @@ email: sava.virtosu@gmail.com
   
   _If you still don't get something then ask me. Write an email to me or to other teacher. Ask stackoverflow. Do something (!) because you will encounter all these keywords during your professional carrier. This will help to differentiate you from an average "bîdlo-coder"._
 
-### Technical Requirements:
-
+### Technical Prerequisites:
   - connect to a server (you can use a virtual machine as a remote server)
   - install necessary compilers on server
-  - install git on server
+  - install GIT on server
 
 ### Laboratory Requirements:
-
-  - Basic Level (grade 5 || 6): You need to connect to a server (as a server can serve a virtual machine) using ssh. You must be able to run at least 2 sample programs from the HelloWolrdPrograms folder. You must be able to initialize and make a commit in git or mercurial.
-  - Normal Level (grade 7 || 8): initialize an empty repository, configure your git or mercurial. Make 2 branches, and make in each branch a commit.
-  - Advance Level (grade 9 || 10): configure your remote push (github, bitbucket or custom server). Make a commit and after that reset it. Make 2 branches and merge them.
+  - for _Basic Level_ (grade 5 || 6) you should be able to:
+    - connect to a server using SSH
+    - run at least 2 sample programs from provided HelloWolrdPrograms set
+    - initialize and make a commit using GIT or mercurial
+  - for _Normal Level_ (grade 7 || 8) you should be able to:
+    - initialize an empty repository
+    - configure your GIT or mercurial
+    - create branches (create at least 2 branches)
+    - commit to different branches (at least 1 commit per branch)
+  - for _Advanced Level_ (grade 9 || 10) you should be able to:
+    - set a branch to track a remote origin on which you are able to push (ex. github, bitbucket or custom server)
+    - reset a branch to previous commit
+    - merge 2 branches
+  - for _Geek Level_ (no marks here) explore:
+    - GIT cherry-pick
+    - GIT rebase
+    - conflict solving
+    - GIT hooks
 
 ### References:
 
@@ -80,11 +93,13 @@ Git:
   - http://www.manniwood.com/starting_a_project_with_git.html
   - https://help.ubuntu.com/community/Git
   - http://www.vogella.com/articles/Git/article.html
+  - http://marklodato.github.com/visual-git-guide/index-en.html
 
-Advance Git:
+Advanced Git:
   - http://nvie.com/posts/a-successful-git-branching-model/
   - http://git-scm.com/book
 
 Mercurial:
   - http://hginit.com/
   - http://hgbook.red-bean.com/
+
