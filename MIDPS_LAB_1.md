@@ -25,7 +25,7 @@ email: sava.virtosu@gmail.com
   Laboratory work is considered as successfully passed after fulfilling the following steps:
   
   1. You must elaborate a Report which will contain your work-flow and your conclusions.
-    - Laboratory work paper Dead Line is: x.x.x
+    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format). 
     - Laboratory work paper must have at least: 2 pages
     - Laboratory work paper must have a conclusion of: 0.5 pages
   2. You must elaborate a prototype program, and show how it work during the classes
@@ -91,6 +91,7 @@ Git:
   - [Full Git Tutorial](http://www.vogella.com/articles/Git/article.html)
   - [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)
   - [A tutorial explaining the git concepts by associating managing source code with managing game saves.](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+  - [Online Learning Tool](http://pcottle.github.com/learnGitBranching/)
 
 Advanced Git:
   - [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)

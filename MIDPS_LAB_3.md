@@ -25,7 +25,7 @@ email: sava.virtosu@gmail.com
   Laboratory work is considered as successfully passed after fulfilling the following steps:
 
   1. You must elaborate a Report, in witch you describe your work-flow and the way you are thinking:
-    - Laboratory work paper DL is: x.x.x
+    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format). 
     - Laboratory work paper must have at least: 4 pages and 2 screen-shots
     - Laboratory work paper must have a conclusion of: 0.5 page
   2. You must elaborate a prototype program, and show how it works during the classes
