@@ -33,8 +33,7 @@ email: sava.virtosu@gmail.com
 
   _Note:_
   
-  _More details you'll provide in your report, less questions I'll give to
-  you during presentation of your report._
+  _More details you'll provide in your report, less questions I'll give to you during presentation of your report._
 
   _If you don't understand some words in this document please google it._
   
@@ -70,36 +69,34 @@ email: sava.virtosu@gmail.com
 ### References:
 
 Basics of linux comandline comands:
-  - http://www.debianhelp.co.uk/commands.htm
-  - http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html
+  - [Link_1](http://www.debianhelp.co.uk/commands.htm)
+  - [Link_1](http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html)
 
 PowerShell (windows console):
-  - http://powershell.com/cs/blogs/tips/
 
-SSH into your Virtualbox VM from the same computer
-  - http://www.youtube.com/watch?v=5BsShkcweIs
+  - [POwershell tips](http://powershell.com/cs/blogs/tips/)
 
-How to compile a C program in ubuntu:
-  - http://stackoverflow.com/questions/4635794/how-to-run-a-c-program-on-ubuntu
-How to compile a C++ program in ubuntu:
-  - http://askubuntu.com/questions/61408/
-  what-is-a-command-to-compile-and-run-c-programs
-How to compile a Java program in ubuntu
-  - http://askubuntu.com/questions/145748/how-to-compile-a-java-file
+SSH into your Virtualbox VM from the same computer:
+
+  - [Video](http://www.youtube.com/watch?v=5BsShkcweIs)
+
+Compiling in Linux
+  - [How to compile a C program in ubuntu](http://stackoverflow.com/questions/4635794/how-to-run-a-c-program-on-ubuntu)
+  - [How to compile a C++ program in ubuntu](http://askubuntu.com/questions/61408/what-is-a-command-to-compile-and-run-c-programs)
+  - [How to compile a Java program in ubuntu](http://askubuntu.com/questions/145748/how-to-compile-a-java-file)
 
 Git:
-  - A tutorial explaining the git concepts by asociating managing source code with managing game saves.
-      http://www-cs-students.stanford.edu/~blynn/gitmagic/
-  - http://www.manniwood.com/starting_a_project_with_git.html
-  - https://help.ubuntu.com/community/Git
-  - http://www.vogella.com/articles/Git/article.html
-  - http://marklodato.github.com/visual-git-guide/index-en.html
+  - [Basics Git](http://www.manniwood.com/starting_a_project_with_git.html)
+  - [Introduction to git in Ubuntu](https://help.ubuntu.com/community/Git)
+  - [Full Git Tutorial](http://www.vogella.com/articles/Git/article.html)
+  - [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)
+  - [A tutorial explaining the git concepts by associating managing source code with managing game saves.](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 
 Advanced Git:
-  - http://nvie.com/posts/a-successful-git-branching-model/
-  - http://git-scm.com/book
+  - [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
+  - [Git Book](http://git-scm.com/book)
 
 Mercurial:
-  - http://hginit.com/
-  - http://hgbook.red-bean.com/
+  - [Introduction to Mercurial](http://hginit.com/)
+  - [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
 

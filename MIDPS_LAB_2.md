@@ -52,33 +52,31 @@ email: sava.virtosu@gmail.com
 
 ### References:
   - Bash:
-    - http://mywiki.wooledge.org/BashGuide
-    - http://tldp.org/LDP/abs/html/
+    - [Link_1](http://mywiki.wooledge.org/BashGuide)
+    - [Link_2](http://tldp.org/LDP/abs/html/)
 
   - Perl:
-    - http://www.globalspin.com/thebook/
-    - http://www.perl.org/books/beginning-perl/
-    - http://www.extremeperl.org/bk/home
-    - http://www.greenteapress.com/perl/
-    - http://hop.perl.plover.com/book/
+    - [Link_1](http://www.globalspin.com/thebook/)
+    - [Link_2](http://www.perl.org/books/beginning-perl/)
+    - [Link_3](http://www.extremeperl.org/bk/home)
+    - [Link_4](http://www.greenteapress.com/perl/)
+    - [Link_5](http://hop.perl.plover.com/book/)
 
   - Python:
-    - http://packages.python.org/GitPython/0.3.1/tutorial.html
+    - [Link_1](http://packages.python.org/GitPython/0.3.1/tutorial.html)
 
   - vim:
-    - http://www.derekwyatt.org/vim/vim-tutorial-videos/
-    vim-novice-tutorial-videos/
-    - http://www.swaroopch.com/notes/Vim/
-    - http://vim.runpaint.org/toc/
+    - [Link_1](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-novice-tutorial-videos/)
+    - [Link_2](http://www.swaroopch.com/notes/Vim/)
+    - [Link_3](http://vim.runpaint.org/toc/)
 
   - emacs:
-    - http://www.gnu.org/software/emacs/manual/emacs.html
-    - http://www.gnu.org/software/emacs/emacs-lisp-intro/
+    - [Link_1](http://www.gnu.org/software/emacs/manual/emacs.html)
+    - [Link_2](http://www.gnu.org/software/emacs/emacs-lisp-intro/)
 
 ### Solved Examples:
-  - http://stackoverflow.com/questions/89228/calling-an-external-command-in-
-  python
-  - http://docs.python.org/2/library/commands.html
-  - http://packages.python.org/GitPython/0.3.1/tutorial.html
-  - http://stackoverflow.com/questions/2232/calling-bash-commands-from-ruby
-  - http://tech.natemurray.com/2007/03/ruby-shell-commands.html
+  - [Link_1](http://stackoverflow.com/questions/89228/calling-an-external-command-in-python)
+  - [Link_2](http://docs.python.org/2/library/commands.html)
+  - [Link_3](http://packages.python.org/GitPython/0.3.1/tutorial.html)
+  - [Link_4](http://stackoverflow.com/questions/2232/calling-bash-commands-from-ruby)
+  - [Link_5](http://tech.natemurray.com/2007/03/ruby-shell-commands.html)
