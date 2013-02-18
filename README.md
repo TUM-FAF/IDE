@@ -9,7 +9,7 @@ email: sava.virtosu@gmail.com
 
 Content
 ------------------------------------------------------
-### Lab 1
+### [Lab 1](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_1.md)
 Setting server environment (via SSH)
 
 Version Control Systems (one of):
@@ -17,7 +17,7 @@ Version Control Systems (one of):
   - mercurial
   - svn
 
-### Lab 2
+### [Lab 2](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_2.md)
 Command Line Interfaces (CLI) (one of):
   - vi
   - vim
@@ -30,20 +30,20 @@ Scripting (using one of the following languages):
   - Perl
   - C
 
-### Lab 3
+### [Lab 3](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_3.md)
 GUI Programing (one of):
   - Visual Studio
   - QTCreator
   - Code::Blocks
 
-### Lab 4
+### [Lab 4](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_4.md)
 Mobile application development (one of):
   - Eclipse (Java, Android)
   - NetBeans (Java, Android)
   - ItelijIdea (Java, Android)
   - XCode (Objective-C, iOS)
 
-### Lab 5
+### [Lab 5](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_5.md)
 Web development IDEs/text editors (one of):
   - Sublime Text 2
   - Rubymind
@@ -57,7 +57,7 @@ Web development languages (one of):
  - python (Django)
  - ruby (Ruby on Rail)
 
-### Lab 6
+### [Lab 6](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_6.md)
 Game Development OR Browser Extension (one of):
   - Unity 3D (Javascript, Python, C#)
   - compilr (JavaScript)

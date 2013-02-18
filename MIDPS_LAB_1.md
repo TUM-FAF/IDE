@@ -69,16 +69,16 @@ email: sava.virtosu@gmail.com
 ### References:
 
 Basics of linux comandline comands:
-  - [Link_1](http://www.debianhelp.co.uk/commands.htm)
-  - [Link_1](http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html)
+  - [Basic Linux Commands](http://www.debianhelp.co.uk/commands.htm)
+  - [Basic Linux Commands - 2](http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html)
 
 PowerShell (windows console):
 
-  - [POwershell tips](http://powershell.com/cs/blogs/tips/)
+  - [Popwershell tips](http://powershell.com/cs/blogs/tips/)
 
 SSH into your Virtualbox VM from the same computer:
 
-  - [Video](http://www.youtube.com/watch?v=5BsShkcweIs)
+  - [Video - SSH into your Virtualbox VM](http://www.youtube.com/watch?v=5BsShkcweIs)
 
 Compiling in Linux
   - [How to compile a C program in ubuntu](http://stackoverflow.com/questions/4635794/how-to-run-a-c-program-on-ubuntu)

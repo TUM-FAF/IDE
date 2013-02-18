@@ -75,21 +75,21 @@ email: sava.virtosu@gmail.com
 ### Solved Examples:
 Calculator in Visual Studio 2010: 
 
-  - [Link_1](http://www.youtube.com/watch?v=iTVX6O2L3oc)
-  - [Link_2](http://www.youtube.com/watch?v=DF2fCWLFSG0)
-  - [Link_3](http://www.dreamincode.net/forums/topic/32968-basic-calculator-in-c%23/)
+  - [Video - Simple calculator in Visual Studio](http://www.youtube.com/watch?v=DF2fCWLFSG0)
+  - [Video - Calculator In Visual Studio 2010](http://www.youtube.com/watch?v=iTVX6O2L3oc)
+  - [Basic Calculator In C#](http://www.dreamincode.net/forums/topic/32968-basic-calculator-in-c%23/)
 
 Calculator in Code::Blocks with wxWidgeets: 
 
-  - [Link_1](http://zetcode.com/tutorials/wxwidgetstutorial/layoutmanagement/)
-  - [Link_2](http://www.youtube.com/watch?v=PzbMEe6xCPI)
+  - [Layout management in wxWidgets](http://zetcode.com/tutorials/wxwidgetstutorial/layoutmanagement/)
+  - [Video - Create a custom dialog with wxWidgets, CodeBlocks](http://www.youtube.com/watch?v=PzbMEe6xCPI)
 
 Calculator in QTCreator:
 
-  - [Link_1](http://www.youtube.com/watch?v=Gff6_0-tqUM)
-  - [Link_2](http://qt-project.org/doc/qt-4.8/widgets-calculator.html)
-  - [Link_3](http://www.developer.nokia.com/Community/Wiki/How_to_make_a_simple_calculator_in_Qt)
+  - [Video - Simple calculator tutorial on Qt](http://www.youtube.com/watch?v=Gff6_0-tqUM)
+  - [Calculator Example](http://qt-project.org/doc/qt-4.8/widgets-calculator.html)
+  - [How to make a simple calculator in Qt](http://www.developer.nokia.com/Community/Wiki/How_to_make_a_simple_calculator_in_Qt)
 
 Calculator in PyQt:
 
-  - [Link_1](http://zetcode.com/tutorials/pyqt4/layoutmanagement/)
+  - [Layout management in PyQt4](http://zetcode.com/tutorials/pyqt4/layoutmanagement/)
