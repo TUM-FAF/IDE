@@ -65,15 +65,17 @@ email: sava.virtosu@gmail.com
   - Python:
     - [GitPython Tutorial](http://packages.python.org/GitPython/0.3.1/tutorial.html)
 
-  - vim:
+  - Vim:
     - [Vim Novice Tutorial Videos](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-novice-tutorial-videos/)
     - [A Byte of Vim](http://www.swaroopch.com/notes/Vim/)
     - [Vim Recipes](http://vim.runpaint.org/toc/)
 
-  - emacs:
+  - Emacs:
     - [GNU Emacs manual](http://www.gnu.org/software/emacs/manual/emacs.html)
     - [An Introduction to Programming in Emacs Lisp](http://www.gnu.org/software/emacs/emacs-lisp-intro/)
 
+  - General:
+    - [Why are scripting languages not suitable as shell languages?](http://stackoverflow.com/questions/3637668/why-are-scripting-languages-e-g-perl-python-ruby-not-suitable-as-shell-lang/3640403#3640403)
 ### Solved Examples:
   - [Calling an external command in Python](http://stackoverflow.com/questions/89228/calling-an-external-command-in-python)
   - [Utilities for running commands in Python](http://docs.python.org/2/library/commands.html)
