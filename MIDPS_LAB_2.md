@@ -18,7 +18,7 @@ email: sava.virtosu@gmail.com
 ### Objectives: 
   - Understanding and using CLI (basic level)
   - Ability to work remotely (remote code editing)
-  - Creating a script that will compile multiple projects (source codes) with resulting multipe programs
+  - Creating a script that will compile multiple projects (source codes) with resulting multiple programs
 
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
@@ -48,7 +48,7 @@ email: sava.virtosu@gmail.com
       - post a ticket in some issue tracker. add compilation details
     - merge 2 branches
   - for _Bonus Level_:
-    - _nothing here today. try tommorow._
+    - _nothing here today. try tomorrow._
 
 ### References:
   - Bash:
