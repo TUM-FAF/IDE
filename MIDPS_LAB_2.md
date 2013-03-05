@@ -76,6 +76,7 @@ email: sava.virtosu@gmail.com
 
   - General:
     - [Why are scripting languages not suitable as shell languages?](http://stackoverflow.com/questions/3637668/why-are-scripting-languages-e-g-perl-python-ruby-not-suitable-as-shell-lang/3640403#3640403)
+
 ### Solved Examples:
   - [Calling an external command in Python](http://stackoverflow.com/questions/89228/calling-an-external-command-in-python)
   - [Utilities for running commands in Python](http://docs.python.org/2/library/commands.html)
