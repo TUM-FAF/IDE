@@ -68,6 +68,8 @@ email: sava.virtosu@gmail.com
   _I suggest you to take a look at QTDesigner for constructing GUI, and Python language for Core logic. This Technology binding is named PyQT, and is very interesting imho. If you will make your laboratory work using this technology, take a look at "pyuic" utility. Using this utility you can easily convert your *.ui file in to python code:_
   _"pyuic form1.ui > form1.py"_
 
+  _Note2:_
+  _Next time use as an email topic which follows this pattern: [TUM][FAF Labs][MIDPS] Name Surname_
 ### References:
   - [Multitier architecture](http://en.wikipedia.org/wiki/Multitier_architecture)
   - [Different User Interfaces - Same Logic](http://qt-project.org/quarterly/view/different_user_interfaces_same_logic)
