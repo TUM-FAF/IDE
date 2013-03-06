@@ -46,7 +46,6 @@ email: sava.virtosu@gmail.com
     - for each unsuccessful/failed compilation (one of):
       - send an e-mail (to preset address) with compilation details
       - post a ticket in some issue tracker. add compilation details
-    - merge 2 branches
   - for _Bonus Level_:
     - _nothing here today. try tomorrow._
 

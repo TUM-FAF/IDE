@@ -1,7 +1,7 @@
 *******************************************************************************
 MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
 ====
-Laboratory work Nr.3 - GUI Programing
+Laboratory work Nr.3 - GUI Programming
 ----
 
 Virtosu Sava
@@ -15,7 +15,7 @@ email: sava.virtosu@gmail.com
   - Frameworks: Forms, wxWidgets.
   - Technologies: PyQt.
 
-### Objectives: 
+### Objectives:
   - Make a simple GUI Calculator  
   - Default operations are: +,-,*,/,power,sqrt,SignInversion(+/-),operation with decimal floating point.
   - Divide your program in two modules - the GUI module and Core Module.
