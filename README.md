@@ -1,4 +1,3 @@
-
 IDE Labs
 =========
 MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
@@ -46,7 +45,7 @@ Mobile application development (one of):
 ### [Lab 5](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_5.md)
 Web development IDEs/text editors (one of):
   - Sublime Text 2
-  - Rubymind
+  - RubyMine
   - PyCharm
   - Komodo
   - Coda
@@ -54,8 +53,8 @@ Web development IDEs/text editors (one of):
   - phpStorm
   
 Web development languages (one of):
- - python (Django)
- - ruby (Ruby on Rail)
+  - Python (Django)
+  - Ruby (Ruby on Rails)
 
 ### [Lab 6](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_6.md)
 Game Development OR Browser Extension (one of):
