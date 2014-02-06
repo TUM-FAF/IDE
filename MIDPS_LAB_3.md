@@ -1,13 +1,6 @@
-*******************************************************************************
-MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
-====
-Laboratory work Nr.3 - GUI Programming
-----
+# Interactive Development Environments Laboratory Work #3
 
-Virtosu Sava
-
-email: sava.virtosu@gmail.com
-*******************************************************************************
+## GUI Programming
 
 ### Prerequisites:
   - IDEs: Visual Studio, QTCreator, Code::Blocks
@@ -16,7 +9,7 @@ email: sava.virtosu@gmail.com
   - Technologies: PyQt.
 
 ### Objectives:
-  - Make a simple GUI Calculator  
+  - Make a simple GUI Calculator
   - Default operations are: +,-,*,/,power,sqrt,SignInversion(+/-),operation with decimal floating point.
   - Divide your program in two modules - the GUI module and Core Module.
   - Possibility to plot Graphs giving as an argument a function
@@ -25,15 +18,15 @@ email: sava.virtosu@gmail.com
   Laboratory work is considered as successfully passed after fulfilling the following steps:
 
   1. You must elaborate a Report, in witch you describe your work-flow and the way you are thinking:
-    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format). 
+    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format).
     - Laboratory work paper must have at least: 4 pages and 2 screen-shots
     - Laboratory work paper must have a conclusion of: 0.5 page
   2. You must elaborate a prototype program, and show how it works during the classes
-  3. You must pass the quiz 
+  3. You must pass the quiz
 
 ### Technical Prerequisites:
   - You must separate your application in two modules:
-    - Core module - must include the basic functionality, storing the 
+    - Core module - must include the basic functionality, storing the
     - GUI module - must include bunch of function that draw the GUI and manage the interaction between GUI elements and the core function
   - Try to make your program cross platform (Windows,Linux,Mac).
 
@@ -43,24 +36,24 @@ email: sava.virtosu@gmail.com
     - Make a simple GUI calculator with basic functions such as +, -, /, *.
 
   - for _Normal Level_ (grade 7 || 8):
-    - Make a simple GUI calculator with basic functions such as +, -, /, *, power, sqrt, SignInversion(+/-). 
+    - Make a simple GUI calculator with basic functions such as +, -, /, *, power, sqrt, SignInversion(+/-).
 
   - for _Advanced Level_ (grade 9 || 10) you should be able to:
-    - Make a simple GUI calculator with basic functions such as +, -, /, *, power, sqrt and SignInversion(+/-), operation with decimal floating point. 
+    - Make a simple GUI calculator with basic functions such as +, -, /, *, power, sqrt and SignInversion(+/-), operation with decimal floating point.
     - Your program must contain two modules, the GUI module and Business Logic module.
 
   - for _Geek Level_ (no marks here) explore:
     - Your Business Logic module (the Core module), that represents a bunch of function that	takes some arguments and return the result, must be separated as a library that ca be easily included or accessed in other applications or from the console.
     - Your calculator will be able to plot basic 2D graphs, by giving as an input a function, and obtain as a result a window with drawn graph.
-      
+
       [Here are some Examples](http://s256376672.websitehome.co.uk/KS_3_Year_8/Y8_KS_3_files/Y8_29_30_Graphs/more_graphs.htm)
-        
-      x + y = 4 
-      
+
+      x + y = 4
+
       and the [Result](http://s256376672.websitehome.co.uk/KS_3_Year_8/Y8_KS_3_files/Y8_29_30_Graphs/2_graph.jpg)
-        
-      y = 3x + 1 
-      
+
+      y = 3x + 1
+
       and the [Result](http://s256376672.websitehome.co.uk/KS_3_Year_8/Y8_KS_3_files/Y8_29_30_Graphs/1_graph.jpg)
 
 
@@ -75,13 +68,13 @@ email: sava.virtosu@gmail.com
   - [Different User Interfaces - Same Logic](http://qt-project.org/quarterly/view/different_user_interfaces_same_logic)
 
 ### Solved Examples:
-Calculator in Visual Studio 2010: 
+Calculator in Visual Studio 2010:
 
   - [Video - Simple calculator in Visual Studio](http://www.youtube.com/watch?v=DF2fCWLFSG0)
   - [Video - Calculator In Visual Studio 2010](http://www.youtube.com/watch?v=iTVX6O2L3oc)
   - [Basic Calculator In C#](http://www.dreamincode.net/forums/topic/32968-basic-calculator-in-c%23/)
 
-Calculator in Code::Blocks with wxWidgeets: 
+Calculator in Code::Blocks with wxWidgeets:
 
   - [Layout management in wxWidgets](http://zetcode.com/tutorials/wxwidgetstutorial/layoutmanagement/)
   - [Video - Create a custom dialog with wxWidgets, CodeBlocks](http://www.youtube.com/watch?v=PzbMEe6xCPI)

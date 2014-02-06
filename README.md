@@ -1,13 +1,7 @@
-IDE Labs
-=========
-MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
+# Interactive Development Environments Laboratory works
 
-Virtosu Sava
+## Content
 
-email: sava.virtosu@gmail.com
-
-Content
-------------------------------------------------------
 ### [Lab 1](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_1.md)
 Setting server environment (via SSH)
 
@@ -51,7 +45,7 @@ Web development IDEs/text editors (one of):
   - Coda
   - Dreamweaver
   - phpStorm
-  
+
 Web development languages (one of):
   - Python (Django)
   - Ruby (Ruby on Rails)
@@ -63,4 +57,4 @@ Game Development OR Browser Extension (one of):
   - coderun (JavaScript)
   - shiftedit (JavaScript)
   - c9.io (JavaScript)
-  - ideone (JavaScript) 
+  - ideone (JavaScript)

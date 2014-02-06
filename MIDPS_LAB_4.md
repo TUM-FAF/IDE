@@ -1,20 +1,13 @@
-*******************************************************************************
-MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
-====
-Laboratory work Nr.4 - Mobile application development
-----
+# Interactive Development Environments Laboratory Work #4
 
-Virtosu Sava
-
-email: sava.virtosu@gmail.com
-*******************************************************************************
+## Mobile Applications Development
 
 ### Prerequisites:
   - IDEs: Eclipse, NetBeans, ItelijIdea, XCode
   - Languages: Java, Objective C
   - Frameworks: Android, Cocos 2D
 
-### Objectives: 
+### Objectives:
   - Basic knowledge of mobile application architecture
   - Basic knowledge of specific platform SDK.
 
@@ -22,11 +15,11 @@ email: sava.virtosu@gmail.com
   Laboratory work is considered as successfully passed after fulfilling the following steps:
 
   1. You must elaborate a Report, in witch you describe your work-flow and the way you are thinking:
-    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format). 
+    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format).
     - Laboratory work paper must have at least: 4 pages with 2 screen-shots.
     - Laboratory work paper must have a conclusion of: 0.5 pages
   2. You must elaborate a prototype program, and show how it work during the classes
-  3. You must pass the quiz 
+  3. You must pass the quiz
 
 ### Technical Prerequisites:
   - Your application must be developed and tested in SDK included Emulator.
@@ -39,14 +32,14 @@ email: sava.virtosu@gmail.com
     - Make a simple Hello World application with 2 buttons that will display 2 different views, with different user interaction elements.
 
   - for _Normal Level_ (grade 7 || 8):
-    - You must implement a simple stopwatch or a clock alarm. 
+    - You must implement a simple stopwatch or a clock alarm.
 
   - for _Advanced Level_ (grade 9 || 10):
     - Pomodoro technique application, or some more sophisticated mobile application.
 
   - for _Geek Level_ (no marks here) explore:
     - Use some cross platform library in order to make a cross platform application (you must be able to run your app on Android and iOS platform)
-  
+
   _Note:_
 
   _Chose and implement only one level._

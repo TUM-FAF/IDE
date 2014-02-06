@@ -1,44 +1,37 @@
-*******************************************************************************
-MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
-====
-Laboratory work Nr.1 - Setting server environment. Version Control Systems.
-----
+# Interactive Development Environments Laboratory Work #1
 
-Virtosu Sava
-
-email: sava.virtosu@gmail.com
-*******************************************************************************
+## Setting server environment. Version Control Systems
 
 ### Prerequisites:
   - IDEs: Command Line Interface (CLI)
   - Languages: bash, C/C++
-  - Frameworks: 
+  - Frameworks:
   - Technologies: Version Control Systems
 
-### Objectives: 
-  - Understanding and using CLI (basic level) 
+### Objectives:
+  - Understanding and using CLI (basic level)
   - Administration of a remote linux machine using SSH
   - Ability to work with Version Control Systems (git || mercurial || svn)
   - Compile your C/C++/Java/Python programs through CLI using gcc/g++/javac/python compilers
 
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
-  
+
   1. You must elaborate a Report which will contain your work-flow and your conclusions.
-    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format). 
+    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format).
     - Laboratory work paper must have at least: 2 pages
     - Laboratory work paper must have a conclusion of: 0.5 pages
   2. You must elaborate a prototype program, and show how it work during the classes
-  3. You must pass the quiz 
+  3. You must pass the quiz
 
   _Note:_
-  
+
   _More details you'll provide in your report, less questions I'll give to you during presentation of your report._
 
   _If you don't understand some words in this document please google it._
-  
+
   _If you don't understand google explanation then try to ask for a help from colleagues or friends._
-  
+
   _If you still don't get something then ask me. Write an email to me or to other teacher. Ask stackoverflow. Do something (!) because you will encounter all these keywords during your professional carrier. This will help to differentiate you from an average "bîdlo-coder"._
 
 ### Technical Prerequisites:

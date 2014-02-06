@@ -1,20 +1,13 @@
-*******************************************************************************
-MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
-====
-Laboratory work Nr.6 - Game Development OR Browser Extensiont
-----
+# Interactive Development Environments Laboratory Work #6
 
-Virtosu Sava
-
-email: sava.virtosu@gmail.com
-*******************************************************************************
+## Game Development or Browser Extension
 
 ### Prerequisites:
   - IDE's: [Unity 3D] OR [compilr, coderun, shiftedit, c9.io, ideone]
   - Languages: C/C++, C#, Python, Javascript
   - Frameworks: Unity 3D
 
-### Objectives: 
+### Objectives:
   - Make a simple Video Game 2D or 3D of any genre.
   - Make an extension for your browser.
 
@@ -22,11 +15,11 @@ email: sava.virtosu@gmail.com
   Laboratory work is considered as successfully passed after fulfilling the following steps:
 
   1. You must elaborate a Report, in which you describe your work-flow and the way you are thinking:
-    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format). 
+    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format).
     - Laboratory work paper must have at least: 3 pages and 2 screenshots
     - Laboratory work paper must have a conclusion of: 0.5 page
   2. You must elaborate a prototype program and show how it works during the classes
-  3. You must pass the quiz 
+  3. You must pass the quiz
 
 ### Technical Prerequisites:
   - Your game must have a Menu scene, and some "start buttons" that will open specific scene in game.
@@ -48,13 +41,13 @@ email: sava.virtosu@gmail.com
 
   - for _Advanced Level_ (grade 9 || 10):
     - Your game must have some interactive sounds (buttons pushed, object movement). You must be able to play this game having win and lose situations.
-    
+
     OR
     - Extension must be connected to some services (ex: Gmail, Google Tasks) and be able to present to user some information about the state of this services (ex: number of unfinished tasks)
 
   - for _Geek Level_ (no marks here) explore:
     - Your game must have some interactive sounds (buttons pushed, object movement). You must be able to play this game having win and lose situations.
-    
+
     OR
     - Extension must be connected to some services (ex: Gmail, Google Tasks) and be able to present to user some information about the state of this services (ex: number of unfinished tasks)
 

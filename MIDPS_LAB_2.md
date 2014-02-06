@@ -1,34 +1,27 @@
-*******************************************************************************
-MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
-====
-Laboratory work Nr.2 - Command Line Interface (CLI). Scripting.
-----
+# Interactive Development Environments Laboratory Work #2
 
-Virtosu Sava
-
-email: sava.virtosu@gmail.com
-*******************************************************************************
+## Command Line Interface (CLI); Scripting
 
 ### Prerequisites:
   - IDEs: CLI - nano, vim, emacs
   - Languages: bash, python, perl, ruby
-  - Frameworks: 
+  - Frameworks:
   - Technologies: The power of vim and scripting languages
 
-### Objectives: 
+### Objectives:
   - Understanding and using CLI (basic level)
   - Ability to work remotely (remote code editing)
   - Creating a script that will compile multiple projects (source codes) with resulting multiple programs
 
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
-  
+
   1. You must elaborate a Report which will contain your work-flow and your conclusions.
-    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format). 
+    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format).
     - Laboratory work paper must have at least: 2 pages
     - Laboratory work paper must have a conclusion of: 0.5 pages
   2. You must elaborate a prototype program, and show how it work during the classes
-  3. You must pass the quiz 
+  3. You must pass the quiz
 
 ### Technical Prerequisites:
   - install vim and necessary plugins

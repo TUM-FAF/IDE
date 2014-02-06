@@ -1,13 +1,6 @@
-*******************************************************************************
-MIDPS - Medii Interactive de Dezvoltare a Produselor Soft
-====
-Laboratory work Nr.5 - Web development
-----
+# Interactive Development Environments Laboratory Work #5
 
-Virtosu Sava
-
-email: sava.virtosu@gmail.com
-*******************************************************************************
+## Web Development
 
 ### Prerequisites:
   - IDEs: Sublime Text 2, Rubymind, PyCharm, Komodo, Coda, Dreamweaver, phpStorm
@@ -15,7 +8,7 @@ email: sava.virtosu@gmail.com
   - Frameworks: Django, web2py, Rails, ASP.NET, Zend
   - Technologies: RoR
 
-### Objectives: 
+### Objectives:
   - Make a simple personal Web Site.
   - Familiarize with HTML and CSS
   - Javascript interactions.
@@ -24,11 +17,11 @@ email: sava.virtosu@gmail.com
   Laboratory work is considered as successfully passed after fulfilling the following steps:
 
   1. You must elaborate a Report, in witch you describe your work-flow and the way you are thinking:
-    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format). 
+    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format).
     - Laboratory work paper must have at least:8 pages, with maximum 4 pages of code. Place your interesting parts of code and explain why you chose such a solution.
     - Laboratory work paper must have a conclusion of: 1 page
   2. You must elaborate a prototype program, and show how it works during the classes
-  3. You must pass the quiz 
+  3. You must pass the quiz
 
 ### Technical Prerequisites:
   - Use MVC (Model–View–Controller) pattern
@@ -39,17 +32,17 @@ email: sava.virtosu@gmail.com
     - Simple site with 3 static pages
 
   - for _Normal Level_ (grade 7 || 8):
-    - Your site must keep all site data in a database. 
+    - Your site must keep all site data in a database.
 
   - for _Advanced Level_ (grade 9 || 10):
     - Your site must contain AJAX Requests.
     - Your controllers must implement XHR or JSON responses. Some Data are dynamically  loaded to the page.
 
   - for _Geek Level_ (no marks here) explore:
-    - Make a RoR application "Mail Sender" fully covered with Unit Tests. 
-    - Your web based application will permit you to connect existing account mail account (for example gmail) and permit you to explore your inbox, read existing emails, create new emails, and send them. 
+    - Make a RoR application "Mail Sender" fully covered with Unit Tests.
+    - Your web based application will permit you to connect existing account mail account (for example gmail) and permit you to explore your inbox, read existing emails, create new emails, and send them.
     - You can make your own mail server.
-  
+
 
 ### References:
   - [Sublime Text 2 workflow](https://tutsplus.com/course/improve-workflow-in-sublime-text-2)
@@ -58,10 +51,10 @@ email: sava.virtosu@gmail.com
 
   - [Python bible book](http://www.diveintopython.net/)
   - [Python -  The hard way](http://learnpythonthehardway.org/book/)
-  
-  - _Here must be links to some good Django/ASP.NET tutorials. You can suggest them._ 
+
+  - _Here must be links to some good Django/ASP.NET tutorials. You can suggest them._
 
 ### Solved Examples:
   - [Rails Sample Apps](http://railsapps.github.com/)
   - [Ruby on Rails Examples](https://github.com/devalot/ror-example)
-	
+
