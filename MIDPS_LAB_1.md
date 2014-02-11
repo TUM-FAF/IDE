@@ -6,17 +6,17 @@
   - IDEs: Command Line Interface (CLI), CLI Editors
   - Languages: bash
   - Frameworks:
-  - Technologies: Version Control Systems
+  - Technologies: Version Control Systems (VCS)
 
 ### Objectives:
   - Understanding and using CLI (basic level)
   - Administration of a remote linux machine using SSH
   - Ability to work remotely (remote code editing)
-  - Ability to work with Version Control Systems (GIT || Mercurial || SVN)
+  - Ability to work with VSC
 
 ### Technical Prerequisites:
   - Connection to a remote server via SSH (you can use a virtual machine as a remote server)
-  - GIT, SVN or Mercurial on remote server
+  - VCS on remote server
   - CLI text editor (vi, vim, emacs or nano) with necessary plugins (if necessary)
 
 ### Mandatory Tasks:
@@ -31,8 +31,9 @@
   - Reset a branch to previous commit, reset a branch to some specific commit (1 pt)
   - Restore a reset branch back to its previous state (1 pt)
   - GIT cherry-pick, rebase (1 pt)
-  - Create a GIT hook (1 pt)
+  - Create a VCS hook (1 pt)
   - Install a code-highlighter plugin in your CLI text editor (1 pt)
+  - Create a VCS alias (1 pt)
 
 ### References:
 
