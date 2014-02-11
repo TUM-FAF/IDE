@@ -1,55 +1,60 @@
-# Interactive Development Environments Laboratory Work #4
+# Interactive Development Environments Laboratory Work #5
 
-## Mobile Applications Development
+## Web Development
 
 ### Prerequisites:
-  - IDEs: Eclipse, NetBeans, ItelijIdea, XCode
-  - Languages: Java, Objective C
-  - Frameworks: Android, Cocos 2D
+  - IDEs: Sublime Text 2, Rubymind, PyCharm, Komodo, Coda, Dreamweaver, phpStorm
+  - Languages: Python, Ruby, C#, PHP
+  - Frameworks: Django, web2py, Rails, ASP.NET, Zend
+  - Technologies: RoR
 
 ### Objectives:
-  - Basic knowledge of mobile application architecture
-  - Basic knowledge of specific platform SDK.
+  - Make a simple personal Web Site.
+  - Familiarize with HTML and CSS
+  - Javascript interactions.
 
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
 
   1. You must elaborate a Report, in witch you describe your work-flow and the way you are thinking:
     - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format).
-    - Laboratory work paper must have at least: 4 pages with 2 screen-shots.
-    - Laboratory work paper must have a conclusion of: 0.5 pages
-  2. You must elaborate a prototype program, and show how it work during the classes
+    - Laboratory work paper must have at least:8 pages, with maximum 4 pages of code. Place your interesting parts of code and explain why you chose such a solution.
+    - Laboratory work paper must have a conclusion of: 1 page
+  2. You must elaborate a prototype program, and show how it works during the classes
   3. You must pass the quiz
 
 ### Technical Prerequisites:
-  - Your application must be developed and tested in SDK included Emulator.
-  - You probably would like to run your application on real device.
-  - Your application must support multiple screen resolutions.
+  - Use MVC (Model–View–Controller) pattern
 
 ### Laboratory Requirements:
 
   - for _Basic Level_ (grade 5 || 6):
-    - Make a simple Hello World application with 2 buttons that will display 2 different views, with different user interaction elements.
+    - Simple site with 3 static pages
 
   - for _Normal Level_ (grade 7 || 8):
-    - You must implement a simple stopwatch or a clock alarm.
+    - Your site must keep all site data in a database.
 
   - for _Advanced Level_ (grade 9 || 10):
-    - Pomodoro technique application, or some more sophisticated mobile application.
+    - Your site must contain AJAX Requests.
+    - Your controllers must implement XHR or JSON responses. Some Data are dynamically  loaded to the page.
 
   - for _Geek Level_ (no marks here) explore:
-    - Use some cross platform library in order to make a cross platform application (you must be able to run your app on Android and iOS platform)
+    - Make a RoR application "Mail Sender" fully covered with Unit Tests.
+    - Your web based application will permit you to connect existing account mail account (for example gmail) and permit you to explore your inbox, read existing emails, create new emails, and send them.
+    - You can make your own mail server.
 
-  _Note:_
-
-  _Chose and implement only one level._
 
 ### References:
-  - [Android Developers Documentation](http://developer.android.com/training/basics/firstapp/index.html)
-  - [Simple Android application from scratch in IntelliJ IDEA 10.5](http://wiki.jetbrains.net/intellij/Simple_Android_application_from_scratch_in_IntelliJ_IDEA_10.5)
-  - [One of the Best Java world site](http://www.java2s.com/)
+  - [Sublime Text 2 workflow](https://tutsplus.com/course/improve-workflow-in-sublime-text-2)
+  - [Rails For Zombies](http://railsforzombies.org/)
+  - [Rails Tutorial Book](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+
+  - [Python bible book](http://www.diveintopython.net/)
+  - [Python -  The hard way](http://learnpythonthehardway.org/book/)
+
+  - _Here must be links to some good Django/ASP.NET tutorials. You can suggest them._
 
 ### Solved Examples:
-  - [A Simple Stopwatch](http://www.shawnbe.com/index.php/tutorial/tutorial-1-a-simple-stopwatch-designing-layout/)
-  - [Android Development Tutorial](http://www.vogella.com/articles/Android/article.html)
+  - [Rails Sample Apps](http://railsapps.github.com/)
+  - [Ruby on Rails Examples](https://github.com/devalot/ror-example)
 

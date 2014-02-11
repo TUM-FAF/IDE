@@ -1,60 +1,45 @@
-# Interactive Development Environments Laboratory works
+# Interactive Development Environments Laboratory Works
 
-## Content
+## Laboratory Works' Content
 
 ### [Lab 1](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_1.md)
-Setting server environment (via SSH)
-
-Version Control Systems (one of):
+- Command Line Interface (CLI) and CLI editors (one of):
+  - vi
+  - vim
+  - emacs
+  - nano
+- Setting server environment (via SSH)
+- Version Control System (one of):
   - git
   - mercurial
   - svn
 
 ### [Lab 2](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_2.md)
-Command Line Interfaces (CLI) (one of):
-  - vi
-  - vim
-  - emacs
-  - nano
-
-Scripting (using one of the following languages):
-  - Bash
-  - Python
-  - Perl
-  - C
-
-### [Lab 3](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_3.md)
 GUI Programing (one of):
   - Visual Studio
   - QTCreator
   - Code::Blocks
 
-### [Lab 4](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_4.md)
+### [Lab 3](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_3.md)
 Mobile application development (one of):
+  - Android Studio (Java, Android)
   - Eclipse (Java, Android)
   - NetBeans (Java, Android)
   - ItelijIdea (Java, Android)
   - XCode (Objective-C, iOS)
+  - Visual Studio (.NET, Windows Mobile)
 
-### [Lab 5](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_5.md)
+### [Lab 4](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_4.md)
 Web development IDEs/text editors (one of):
-  - Sublime Text 2
+  - Sublime Text 3
   - RubyMine
   - PyCharm
   - Komodo
   - Coda
-  - Dreamweaver
-  - phpStorm
+  - phpStorm/webStorm
+  - Brackets
 
 Web development languages (one of):
   - Python (Django)
   - Ruby (Ruby on Rails)
-
-### [Lab 6](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_6.md)
-Game Development OR Browser Extension (one of):
-  - Unity 3D (Javascript, Python, C#)
-  - compilr (JavaScript)
-  - coderun (JavaScript)
-  - shiftedit (JavaScript)
-  - c9.io (JavaScript)
-  - ideone (JavaScript)
+  - JS/CoffeeScript (NodeJS)
