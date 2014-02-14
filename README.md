@@ -43,3 +43,16 @@ Web development languages (one of):
   - Python (Django)
   - Ruby (Ruby on Rails)
   - JS/CoffeeScript (NodeJS)
+
+### [Lab 5](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_5.md)
+Game development or Blind Typing
+
+Game development:
+  - Unity 3D (JavaScript, Python, C#)
+  - _open for suggestions_
+
+Blind Typing:
+  - Querty
+  - Colemak
+  - Worker
+  - Dvorak
