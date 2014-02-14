@@ -22,7 +22,7 @@
 ### Mandatory Tasks:
   - Connect to a remote server via SSH
   - Initialize a repository on server
-  - Create a file in that repository, write in your name, save it and commit it
+  - Create a file in repository folder, write in your name, save it and commit it
 
 ### Tasks With Points:
   - Connect to server using public key (1 pt)
