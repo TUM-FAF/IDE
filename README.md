@@ -2,27 +2,29 @@
 
 ## Laboratory Works' Content
 
+_Recomended tools are marked with **bold**_
+
 ### [Lab 1](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_1.md)
 - Command Line Interface (CLI) and CLI editors (one of):
   - vi
-  - vim
+  - **vim**
   - emacs
   - nano
 - Setting server environment (via SSH)
 - Version Control System (one of):
-  - git
+  - **git**
   - mercurial
   - svn
 
 ### [Lab 2](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_2.md)
 GUI Programing (one of):
-  - Visual Studio
+  - **Visual Studio**
   - QTCreator
   - Code::Blocks
 
 ### [Lab 3](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_3.md)
 Mobile application development (one of):
-  - Android Studio (Java, Android)
+  - **Android Studio (Java, Android)**
   - Eclipse (Java, Android)
   - NetBeans (Java, Android)
   - ItelijIdea (Java, Android)
@@ -32,11 +34,11 @@ Mobile application development (one of):
 ### [Lab 4](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_4.md)
 Web development IDEs/text editors (one of):
   - Sublime Text 3
-  - RubyMine
-  - PyCharm
+  - **RubyMine**
+  - **PyCharm**
   - Komodo
   - Coda
-  - phpStorm/webStorm
+  - **phpStorm/webStorm**
   - Brackets
 
 Web development languages (one of):
@@ -53,6 +55,6 @@ Game development:
 
 Blind Typing:
   - Querty
-  - Colemak
+  - **Colemak**
   - Worker
   - Dvorak
