@@ -34,6 +34,9 @@
   - Create a VCS hook (1 pt)
   - Install a code-highlighter plugin in your CLI text editor (1 pt)
   - Create a VCS alias (1 pt)
+  - Master any CLI editor (ex. VIM). Learn 10 commands to prove your mastery (1 pt)
+  - Create your own server (ex. virtual machine) (2 pt)
+  - Create a VCS merge conflict and solve it (1 pt)
 
 ### References:
 
