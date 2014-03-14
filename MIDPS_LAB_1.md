@@ -7,12 +7,13 @@
   - Languages: bash
   - Frameworks:
   - Technologies: Version Control Systems (VCS)
+  - Time: 3 hours
 
 ### Objectives:
   - Understanding and using CLI (basic level)
   - Administration of a remote linux machine using SSH
   - Ability to work remotely (remote code editing)
-  - Ability to work with VSC
+  - Ability to work with VCS
 
 ### Technical Prerequisites:
   - Connection to a remote server via SSH (you can use a virtual machine as a remote server)
