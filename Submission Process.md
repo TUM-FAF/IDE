@@ -9,6 +9,10 @@ Laboratory work is considered as successfully passed after fulfilling the follow
 2. If asked then you'll have to show your application or ability to solve given tasks/problems
 3. Pass the quiz (if there will be any)
 
+As a report template use the one from WP course.
+
+As an email topc ure **[TUM][FAF Labs][WP] Name Surname** template where name is Ion and surname is Ciobanu.
+
 _Note:_
 
 _More details you'll provide in your report, less questions I'll give to you during defense of your report._
