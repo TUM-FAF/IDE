@@ -7,7 +7,7 @@ _Use a different IDE for each laboratory work_
 ## GUI Programming
   - **Visual Studio**
   - **Xcode**
-  - QTCreator
+  - **QTCreator**
   - Code::Blocks
 
 ### Prerequisites:
@@ -34,10 +34,25 @@ _Use a different IDE for each laboratory work_
   - Create a cross-platform application (1pt) _available only for some IDEs and languages_
 
 ### References:
+Architecture
   - [Multitier architecture](http://en.wikipedia.org/wiki/Multitier_architecture)
   - [Different User Interfaces - Same Logic](http://qt-project.org/quarterly/view/different_user_interfaces_same_logic)
 
-### Solved Examples:
+Custom controls:
+  - [Create a custom WPF control](http://msdn.microsoft.com/en-us/library/cc295235.aspx)
+  - [Create and Use Custom Control in WPF](http://www.c-sharpcorner.com/UploadFile/sapnabeniwal/create-and-use-custom-control-in-wpf/)
+
+Testing:
+  - [Using Testing Tools in VS Professional Edition](http://msdn.microsoft.com/en-us/library/bb385902(v=vs.90).aspx)
+  - [Setting up UnitTest++ with Qt Creator in a nice project structure](http://dragly.org/2013/04/19/setting-up-unittest-with-qt-creator/comment-page-1/)
+  - [Unit Test Your App](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/UnitTestYourApp/UnitTestYourApp.html)
+
+Creating an installer:
+  - [How to create a Setup package by using Visual Studio .NET](http://support.microsoft.com/kb/307353)
+  - [Use Advanced Installer for Visual Studio](http://www.advancedinstaller.com/user-guide/tutorial-ai-ext-vs.html)
+  - [Qt Installer Framework](http://qt-project.org/doc/qtinstallerframework-1.4/index.html)
+
+### Calculator Examples:
 Calculator in Visual Studio 2010:
 
   - [Video - Simple calculator in Visual Studio](http://www.youtube.com/watch?v=DF2fCWLFSG0)
