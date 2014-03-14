@@ -19,17 +19,19 @@ _Recomended tools are marked with **bold**_
 ### [Lab 2](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_2.md)
 GUI Programing (one of):
   - **Visual Studio**
-  - QTCreator
+  - **Xcode**
+  - **QTCreator**
   - Code::Blocks
+  - _open for suggestions_
 
 ### [Lab 3](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_3.md)
 Mobile application development (one of):
   - **Android Studio (Java, Android)**
+  - **XCode (Objective-C, iOS)**
+  - **Visual Studio (.NET, Windows Mobile)**
   - Eclipse (Java, Android)
   - NetBeans (Java, Android)
   - ItelijIdea (Java, Android)
-  - XCode (Objective-C, iOS)
-  - Visual Studio (.NET, Windows Mobile)
 
 ### [Lab 4](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_4.md)
 Web development IDEs/text editors (one of):
@@ -53,7 +55,7 @@ Game development:
   - Unity 3D (JavaScript, Python, C#)
   - _open for suggestions_
 
-Blind Typing:
+Blind Typing with 10 fingers:
   - Querty
   - **Colemak**
   - Worker
