@@ -33,7 +33,7 @@
   - Restore a reset branch back to its previous state (1 pt)
   - GIT cherry-pick, rebase (1 pt)
   - Create a VCS hook (1 pt)
-  - Install a code-highlighter plugin in your CLI text editor (1 pt)
+  - Make your CLI text editor to highlight code (1 pt)
   - Create a VCS alias (1 pt)
   - Master any CLI editor (ex. VIM). Learn 10 commands' sets (a/A/i/I/o/O is one set) to prove your mastery (1 pt)
   - Create your own server (ex. virtual machine) (2 pt)
