@@ -1,6 +1,6 @@
 # Grading Policy
 
-The idea of grading policy is the same as [WP grading policy](https://github.com/TUM-FAF/WP/wiki/Grading-Policy).
+The idea of grading policy is the same as [WP grading policy](https://github.com/TUM-FAF/WP/wiki/Grading-Policy). But you start with **2 pt** and you do not gain additional points after mid-term.
 
 You gain points for:
 

@@ -32,6 +32,8 @@ _Use a different IDE for each laboratory work_
   - Set debug watches that will not stop your application from running but will allow you to check any application's state (ex. a variable value at some point of time, if a function was called, memory usage) (1pt)
   - Create an installable application (1pt)
   - Create a cross-platform application (1pt) _available only for some IDEs and languages_
+  - Submit your application to [Kivy contest](http://kivy.org/#contest). You may skip mandatory tasks. (5pt)
+  - _Mention your own tasks that you did and claim points for them (max of 5 pt in total)_
 
 ### References:
 Architecture
