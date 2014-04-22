@@ -4,7 +4,7 @@ _Recomended tools are marked with **bold**_
 
 _Use a different IDE for each laboratory work_
 
-## GUI Programming
+## Mobile Applications Development
   - **Visual Studio**
   - **Xcode**
   - **Android Studio**
