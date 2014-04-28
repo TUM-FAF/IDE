@@ -48,6 +48,8 @@ Testing:
   - [Using Testing Tools in VS Professional Edition](http://msdn.microsoft.com/en-us/library/bb385902(v=vs.90).aspx)
   - [Setting up UnitTest++ with Qt Creator in a nice project structure](http://dragly.org/2013/04/19/setting-up-unittest-with-qt-creator/comment-page-1/)
   - [Unit Test Your App](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/UnitTestYourApp/UnitTestYourApp.html)
+  - [Improving quality with unit tests and fakes](http://s.ch9.ms/Series/Visual-Studio-2012-Premium-and-Ultimate-Overview/Visual-Studio-Ultimate-2012-Improving-quality-with-unit-tests-and-fakes)
+  - [Easily testing user interfaces with Coded UI tests](http://s.ch9.ms/Series/Visual-Studio-2012-Premium-and-Ultimate-Overview/Visual-Studio-Ultimate-2012-Easily-testing-user-interfaces-with-Coded-UI-tests)
 
 Creating an installer:
   - [How to create a Setup package by using Visual Studio .NET](http://support.microsoft.com/kb/307353)
