@@ -13,7 +13,7 @@ _Use a different IDE for each laboratory work_
 
 ### Prerequisites:
   - IDEs: (one of) Visual Studio, Xcode, Android Studio, Eclipse, NetBeans
-  - Languages: C#, JavaScript, Objective C, Java
+  - Languages: C#, JavaScript, Objective C, Java, Swift
   - Technologies and Frameworks: Windows Mobile, iOS, Android
 
 ### Mandatory Tasks:
