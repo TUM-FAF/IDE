@@ -55,13 +55,13 @@ SSH into your Virtualbox VM from the same computer:
   - [Video - SSH into your Virtualbox VM](http://www.youtube.com/watch?v=5BsShkcweIs)
 
 Vim:
-  - [Vim Novice Tutorial Videos](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-novice-tutorial-videos/)
+  - [Vim Novice Tutorial Videos](http://derekwyatt.org/vim/tutorials/novice/)
   - [A Byte of Vim](http://www.swaroopch.com/notes/Vim/)
-  - [Vim Recipes](http://vim.runpaint.org/toc/)
+  - [Vim Recipes](http://linux.vsevteme.ru/attachments/show?content=19936)
 
 Emacs:
   - [GNU Emacs manual](http://www.gnu.org/software/emacs/manual/emacs.html)
-  - [An Introduction to Programming in Emacs Lisp](http://www.gnu.org/software/emacs/emacs-lisp-intro/)
+  - [An Introduction to Programming in Emacs Lisp](http://www.gnu.org/software/emacs/manual/pdf/eintr.pdf)
 
 Git:
   - [Basics Git](http://www.manniwood.com/starting_a_project_with_git.html)
@@ -70,7 +70,6 @@ Git:
   - [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)
   - [A tutorial explaining the git concepts by associating managing source code with managing game saves.](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
   - [Online Learning Tool](http://pcottle.github.com/learnGitBranching/)
-  - [Restoring Reseted --hard Branch](http://www.code-speculations.me/blog/a/omg_git_reset_hard)
 
 Advanced Git:
   - [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
