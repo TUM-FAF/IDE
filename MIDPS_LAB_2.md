@@ -19,7 +19,7 @@ _Use a different IDE for each laboratory work_
 
 ### Mandatory Tasks:
   - Define 3 virtual tasks that you Simulatron is supposed to control
-  - Create a GUI application with 5 standard controls (any child window control mentioned in book Windows Programming ed.5 is considered standard)
+  - Create a GUI application with 5 standard controls (any child window control mentioned in book Windows Programming by Charles Petzold is considered standard)
 
 ### Tasks With Points:
   - Add 3 non-standard controls (2pt)
@@ -30,9 +30,8 @@ _Use a different IDE for each laboratory work_
   - Add a Unit test. For this you'll need to divide your source code in Controller and View (Business and Presentation layer) (2pt)
   - Set a breakpoint in your application and check variables values at that moment of time (1pt)
   - Set debug watches that will not stop your application from running but will allow you to check any application's state (ex. a variable value at some point of time, if a function was called, memory usage) (1pt)
-  - Create an installable application (1pt)
+  - Create an installable application (2pt)
   - Create a cross-platform application (1pt) _available only for some IDEs and languages_
-  - Submit your application to [Kivy contest](http://kivy.org/#contest). You may skip mandatory tasks. (5pt)
   - _Mention your own tasks that you did and claim points for them (max of 5 pt in total)_
 
 ### References:
@@ -47,7 +46,7 @@ Custom controls:
 Testing:
   - [Using Testing Tools in VS Professional Edition](http://msdn.microsoft.com/en-us/library/bb385902(v=vs.90).aspx)
   - [Setting up UnitTest++ with Qt Creator in a nice project structure](http://dragly.org/2013/04/19/setting-up-unittest-with-qt-creator/comment-page-1/)
-  - [Unit Test Your App](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/UnitTestYourApp/UnitTestYourApp.html)
+  - [Unit Test Your App](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/chapters/UnitTestYourApp.html)
   - [Improving quality with unit tests and fakes](http://s.ch9.ms/Series/Visual-Studio-2012-Premium-and-Ultimate-Overview/Visual-Studio-Ultimate-2012-Improving-quality-with-unit-tests-and-fakes)
   - [Easily testing user interfaces with Coded UI tests](http://s.ch9.ms/Series/Visual-Studio-2012-Premium-and-Ultimate-Overview/Visual-Studio-Ultimate-2012-Easily-testing-user-interfaces-with-Coded-UI-tests)
 
@@ -72,8 +71,7 @@ Calculator in QTCreator:
 
   - [Video - Simple calculator tutorial on Qt](http://www.youtube.com/watch?v=Gff6_0-tqUM)
   - [Calculator Example](http://qt-project.org/doc/qt-4.8/widgets-calculator.html)
-  - [How to make a simple calculator in Qt](http://www.developer.nokia.com/Community/Wiki/How_to_make_a_simple_calculator_in_Qt)
-
+  
 Calculator in PyQt:
 
   - [Layout management in PyQt4](http://zetcode.com/tutorials/pyqt4/layoutmanagement/)
