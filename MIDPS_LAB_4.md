@@ -44,7 +44,7 @@ _Use a different IDE for each laboratory work_
 ### References:
 
 Installation:
-* [Express](http://expressjs.com/guide.html). Requires [Node.js](http://nodejs.org/download/)
+* [Express](http://expressjs.com/). Requires [Node.js](http://nodejs.org/download/)
 * [Django](https://docs.djangoproject.com/en/dev/topics/install/). Requires [Python](https://www.python.org/download/)
 * [RoR](http://rubyonrails.org/download/) or [Railsinstaller](http://railsinstaller.org/). Requires [Ruby](https://www.ruby-lang.org/en/installation/)
 
