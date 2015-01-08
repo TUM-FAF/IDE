@@ -17,7 +17,7 @@ _Use a different IDE for each laboratory work_
   - Technologies and Frameworks: Windows Mobile, iOS, Android
 
 ### Mandatory Tasks:
-  - Study design guidlines for any mobile OS ([Android](https://developer.android.com/design/index.html), [iOS](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/MobileHIG/index.html), [Windows Mobile](http://dev.windowsphone.com/en-us/design))
+  - Study design guidlines for any mobile OS ([Android](https://developer.android.com/design/index.html), [iOS](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/MobileHIG/index.html), [Windows Phone](http://dev.windowsphone.com/en-us/design))
   - Create a mobile app and launch it on emulator/simulator. Your app should have at least 3 element (ex. button, textarea, statusbar...) and one action (ex. clicking on a button will trigger a popup)
 
 ### Tasks With Points:
@@ -40,5 +40,5 @@ Android:
   - [Android List View preloading](http://developer.android.com/guide/topics/ui/layout/listview.html)
 
 Testing:
-  - [Unit tests for iOS](https://developer.apple.com/library/iOs/documentation/ToolsLanguages/Conceptual/Xcode_Overview/UnitTestYourApp/UnitTestYourApp.html)
+  - [Unit tests for iOS](http://www.preeminent.org/steve/iOSTutorials/XCTest/)
   - [Unit tests for Windows Phone 8](http://msdn.microsoft.com/en-us/library/windowsphone/develop/dn168930(v=vs.105).aspx)
