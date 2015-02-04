@@ -11,7 +11,7 @@ Laboratory work is considered as successfully passed after fulfilling the follow
 
 As a report template use the one from WP course.
 
-As an email topc ure **[TUM][FAF Labs][WP] Name Surname** template where name is Ion and surname is Ciobanu.
+As an email topic ure **[TUM][FAF Labs][IDE] Name Surname - Laboratory Work Nr.#** template where name is Ion and surname is Ciobanu.
 
 _Note:_
 

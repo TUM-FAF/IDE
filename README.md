@@ -47,3 +47,10 @@ Web development languages (one of):
   - Python (Django)
   - Ruby (Ruby on Rails)
   - JS/CoffeeScript (NodeJS)
+
+### [Lab 5](https://github.com/TUM-FAF/IDE/blob/master/MIDPS_LAB_5.md)
+Game Development OR Browser Extension (one of):
+  - **Unity 3D**
+  - c9.io
+  - coderun
+  - compilr
