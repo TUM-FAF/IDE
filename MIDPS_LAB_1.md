@@ -58,6 +58,7 @@ Vim:
   - [Vim Novice Tutorial Videos](http://derekwyatt.org/vim/tutorials/novice/)
   - [A Byte of Vim](http://www.swaroopch.com/notes/Vim/)
   - [Vim Recipes](http://linux.vsevteme.ru/attachments/show?content=19936)
+  - [Vim as an IDE] (http://github.com/jez/vim-as-an-ide)
 
 Emacs:
   - [GNU Emacs manual](http://www.gnu.org/software/emacs/manual/emacs.html)
