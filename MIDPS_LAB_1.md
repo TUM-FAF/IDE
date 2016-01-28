@@ -66,7 +66,6 @@ Emacs:
 
 Git:
   - [Basics Git](http://www.manniwood.com/starting_a_project_with_git.html)
-  - [Introduction to git in Ubuntu](https://help.ubuntu.com/community/Git)
   - [Full Git Tutorial](http://www.vogella.com/articles/Git/article.html)
   - [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)
   - [A tutorial explaining the git concepts by associating managing source code with managing game saves.](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
