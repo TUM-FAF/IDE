@@ -1,16 +1,17 @@
-# Interactive Development Environments Laboratory Work #1
+## Interactive Development Environments Laboratory Work #1
 
 ## Setting server environment. Version Control Systems
 
 ### Prerequisites:
-  - IDEs: Command Line Interface (CLI)
+  - IDEs: Command Line Interface (CLI) | CLI Editors - nano, vim, emacs
   - Languages: bash, C/C++
   - Frameworks:
-  - Technologies: Version Control Systems
+  - Technologies: Version Control Systems | The power of vim 
+  - Time: 4-8 hours
 
 ### Objectives:
   - Understanding and using CLI (basic level)
-  - Administration of a remote linux machine using SSH
+  - Administration of a remote linux machine using SSH (remote code editing)
   - Ability to work with Version Control Systems (git || mercurial || svn)
   - Compile your C/C++/Java/Python programs through CLI using gcc/g++/javac/python compilers
 
@@ -34,31 +35,39 @@
 
   _If you still don't get something then ask me. Write an email to me or to other teacher. Ask stackoverflow. Do something (!) because you will encounter all these keywords during your professional carrier. This will help to differentiate you from an average "bîdlo-coder"._
 
+  _Note2:_
+  _Use as an email subject the following pattern: [TUM][FAF Labs][MIDPS] Name Surname_
+
 ### Technical Prerequisites:
-  - connect to a server (you can use a virtual machine as a remote server)
-  - install necessary compilers on server
-  - install GIT on server
+  - Connection to a remote server via SSH (you can use a virtual machine as a remote server)
+  - VCS on remote server
+  - CLI text editor (vi, vim, emacs or nano) with necessary plugins (if necessary)
+  - Necessary compilers/interpreters on remote server (gcc, g++, openJDK, python, ruby)
 
 ### Laboratory Requirements:
   - for _Basic Level_ (grade 5 || 6) you should be able to:
     - connect to a server using SSH
     - run at least 2 sample programs from provided HelloWolrdPrograms set
-    - initialize and make a commit using GIT or mercurial
+    - initialize and make a commit using a VCS
   - for _Normal Level_ (grade 7 || 8) you should be able to:
     - initialize an empty repository
-    - configure your GIT or mercurial
+    - configure your VCS
     - create branches (create at least 2 branches)
     - commit to different branches (at least 1 commit per branch)
   - for _Advanced Level_ (grade 9 || 10) you should be able to:
-    - set a branch to track a remote origin on which you are able to push (ex. github, bitbucket or custom server)
+    - set a branch to track a remote origin on which you are able to push (ex. Github, Bitbucket or custom server)
     - reset a branch to previous commit
     - merge 2 branches
+    - conflict solving between 2 branches
   - for _Geek Level_ (no marks here) explore:
     - GIT cherry-pick
     - GIT rebase
-    - conflict solving
     - GIT hooks
-
+    - Write a script that will compile chosen HelloWolrdPrograms projects. Make your script to output compilation results for each project
+    - For each unsuccessful/failed compilation (one of):
+      - send an e-mail (to preset address) with compilation details
+      - post a ticket in some issue tracker. add compilation details
+      
 ### References:
 
 Basics of linux comandline comands:
@@ -66,11 +75,9 @@ Basics of linux comandline comands:
   - [Basic Linux Commands - 2](http://www.comptechdoc.org/os/linux/usersguide/linux_ugbasics.html)
 
 PowerShell (windows console):
-
   - [Popwershell tips](http://powershell.com/cs/blogs/tips/)
 
 SSH into your Virtualbox VM from the same computer:
-
   - [Video - SSH into your Virtualbox VM](http://www.youtube.com/watch?v=5BsShkcweIs)
 
 Compiling in Linux
@@ -80,7 +87,6 @@ Compiling in Linux
 
 Git:
   - [Basics Git](http://www.manniwood.com/starting_a_project_with_git.html)
-  - [Introduction to git in Ubuntu](https://help.ubuntu.com/community/Git)
   - [Full Git Tutorial](http://www.vogella.com/articles/Git/article.html)
   - [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)
   - [A tutorial explaining the git concepts by associating managing source code with managing game saves.](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
