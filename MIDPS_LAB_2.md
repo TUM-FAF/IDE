@@ -20,7 +20,7 @@ _Use a different IDE for each laboratory work_
   - Make a simple GUI Calculator
   - Default operations are: +,-,*,/,power,sqrt,SignInversion(+/-),operation with decimal floating point.
   - Divide your program in two modules - the GUI module and Core Module.
-  - Possibility to plot Graphs giving as an argument a function
+  - Plot a graph when user input contains a function
 
 ### General Requirements:
   Laboratory work is considered as successfully passed after fulfilling the following steps:
