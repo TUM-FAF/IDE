@@ -19,7 +19,7 @@
   Laboratory work is considered as successfully passed after fulfilling the following steps:
 
   1. You must elaborate a Report which will contain your work-flow and your conclusions.
-    - Laboratory work paper Dead Line is due to next laboratory, and the report most be sent to my email in an appropriate format (such as PDF format).
+    - Laboratory work paper Dead Line is due to next laboratory, and the report must be sent to my email in an appropriate format (such as PDF format).
     - Laboratory work paper must have at least: 2 pages
     - Laboratory work paper must have a conclusion of: 0.5 pages
   2. You must elaborate a prototype program, and show how it work during the classes
@@ -29,7 +29,7 @@
 
   _More details you'll provide in your report, less questions I'll give to you during presentation of your report._
 
-  _If you don't understand some words in this document please google it._
+  _If you don't understand any words in this document please google it._
 
   _If you don't understand google explanation then try to ask for a help from colleagues or friends._
 
@@ -47,7 +47,7 @@
 ### Laboratory Requirements:
   - for _Basic Level_ (grade 5 || 6) you should be able to:
     - connect to a server using SSH
-    - run at least 2 sample programs from provided HelloWolrdPrograms set
+    - run at least 2 sample programs from provided HelloWorldPrograms set
     - initialize and make a commit using a VCS
   - for _Normal Level_ (grade 7 || 8) you should be able to:
     - initialize an empty repository
@@ -63,7 +63,7 @@
     - GIT cherry-pick
     - GIT rebase
     - GIT hooks
-    - Write a script that will compile chosen HelloWolrdPrograms projects. Make your script to output compilation results for each project
+    - Write a script that will compile chosen HelloWorldPrograms projects. Make your script to output compilation results for each project
     - For each unsuccessful/failed compilation (one of):
       - send an e-mail (to preset address) with compilation details
       - post a ticket in some issue tracker. add compilation details
