@@ -1,4 +1,4 @@
-# Interactive Development Environments Laboratory works
+# Integrated Development Environments Laboratory works
 
 ## Content
 
