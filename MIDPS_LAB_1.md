@@ -44,12 +44,12 @@
     - create branches (create at least 2 branches)
     - commit to different branches (at least 1 commit per branch)
   - Optional tasks:
-      - Intremediate(each task is worth .5 points):
-        - set a branch to track a remote origin on which you are able to push (ex. Github, Bitbucket or custom server)
-        - reset a branch to previous commit
-        - merge 2 branches
-        - resolve a conflict
-        - create a meaningful pull request
+    - Intremediate(each task is worth .5 points):
+      - set a branch to track a remote origin on which you are able to push (ex. Github, Bitbucket or custom server)
+      - reset a branch to previous commit
+      - merge 2 branches
+      - resolve a conflict
+      - create a meaningful pull request
     - Advanced(each task is worth 1 point):
       - GIT cherry-pick
       - GIT rebase
