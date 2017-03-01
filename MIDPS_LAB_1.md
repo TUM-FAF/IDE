@@ -17,7 +17,6 @@
   
   This laboratory work will consist of both mandatory and optional tasks.
   In order to get a passing grade you will have to execute mandatory tasks, present a report, and pass the quiz, given the fact that your work is submitted before deadline.
-  Laboratory work is considered as successfully passed after fulfilling the following steps:
 
   _Note:_
 
