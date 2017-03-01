@@ -17,7 +17,6 @@
   
   This laboratory work will consist of both mandatory and optional tasks.
   In order to get a passing grade you will have to execute mandatory tasks, present a report, and pass the quiz, given the fact that your work is submitted before deadline.
-  Laboratory work is considered as successfully passed after fulfilling the following steps:
 
   _Note:_
 
@@ -44,7 +43,7 @@
     - create branches (create at least 2 branches)
     - commit to different branches (at least 1 commit per branch)
   - Optional tasks:
-    - Intremediate(each task is worth .5 points):
+    - Intermediate(each task is worth .5 points):
       - set a branch to track a remote origin on which you are able to push (ex. Github, Bitbucket or custom server)
       - reset a branch to previous commit
       - merge 2 branches
