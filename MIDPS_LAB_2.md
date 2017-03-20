@@ -51,8 +51,8 @@ _Use a different IDE for each laboratory work_
       - Provide support for the following operations in your application: power, sqrt, SignInversion(+/-).
       - Provide support for operations with decimal floating point numbers.
       - Your program must contain two modules, the GUI module and Business Logic module.
-      - Work in groups of two(Business Logic & GUI) on a common repo using merge requests.
     - Advaned(each task is worth 1.5 point):
+      - Work in groups of two(Business Logic & GUI) on a common repo using merge requests.
       - Extract Business Logic module into a library, that can be later used separately, either by another GUI module or from console.
       - Provide a possibility for user to switch between several GUI modules(2+).
       - Plot a graph if user input is a function.
